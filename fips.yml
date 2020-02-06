@@ -1,0 +1,4 @@
+# fips-imgui
+---
+exports:
+    header-dirs: [ "entt/src" ]
