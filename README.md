@@ -16,6 +16,7 @@ imports:
 ```
 
 ```cmake
+set(CMAKE_CXX_STANDARD 17) # required for entt
 fips_begin_*(...)
     ...
     fips_deps(entt)
